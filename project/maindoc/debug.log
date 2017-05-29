@@ -1,9 +1,0 @@
-[0418/040035.656:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\temp\settings.dat: Access is denied. (0x5)
-[0418/040036.052:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\temp\settings.dat: Access is denied. (0x5)
-[0418/040036.059:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
-[0418/040037.976:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
-[0418/110605.105:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\temp\settings.dat: Access is denied. (0x5)
-[0418/110605.654:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\temp\settings.dat: Access is denied. (0x5)
-[0418/110605.661:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
-[0418/110607.254:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
-[0418/130356.232:ERROR:crash_report_database_win.cc(426)] unexpected header
